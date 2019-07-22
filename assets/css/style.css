@@ -1,0 +1,17 @@
+body{
+    /* background-image: url("https://image.ibb.co/fqkgMw/dust_scratches.png"); */
+    background-image: url("https://ak2.picdn.net/shutterstock/videos/20857552/thumb/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav-wrapper{
+    background: black;
+    /* background: url("https://www.clarkflower.com/gifs/hp-birthday.jpg") center no-repeat; */
+    font-family: 'Courier New', Courier, monospace;
+}
+.AboutMe{
+    background: white;
+    height: 400px;
+    width: 400px;
+}
