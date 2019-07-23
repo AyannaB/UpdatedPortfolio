@@ -3,15 +3,33 @@ body{
     background-image: url("https://ak2.picdn.net/shutterstock/videos/20857552/thumb/1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
     font-family: 'Courier New', Courier, monospace;
 }
-.nav-wrapper{
-    background: black;
+.nav-container{
+    background: rgb(53, 52, 52);
     /* background: url("https://www.clarkflower.com/gifs/hp-birthday.jpg") center no-repeat; */
+    position: fixed;
+    top: 0;
+    left: 0;
     font-family: 'Courier New', Courier, monospace;
 }
 .AboutMe{
-    background: white;
+    background: rgb(243, 239, 239);
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
     height: 400px;
     width: 400px;
+    text-align: center;
+}
+.ContactMe{
+    background: rgb(243, 239, 239);
+    margin-right: 40px;
+    margin-left: 40px;
+    padding: 75px;
+    text-align: center;
+    vertical-align: center;
+
 }
